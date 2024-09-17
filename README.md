@@ -1,2 +1,3 @@
-# apnacolege-demo
+# sathya prakash
 this is my first git repository..
+author:DSP
